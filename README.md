@@ -9,7 +9,7 @@ __ __
 <br>
 
 # Notes
-If you want to use a different name in the client setup other than `TMP` and `tmp`. You can just change "TMP" to th enew name and then find and replace all "tmp" occurrences with the new name.
+If you want to use a different name in the client setup other than `TMP` and `tmp`. You can just change "TMP" to the new name and then find and replace all "tmp" occurrences with the new name.
 __ __
 
 <br>
