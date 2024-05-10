@@ -16,7 +16,6 @@ from discord import app_commands
 import datetime
 from libs import rnd
 import tomllib
-import time
 import logging
 
 
